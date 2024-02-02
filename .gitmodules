@@ -7,3 +7,6 @@
 [submodule "pagamentos"]
 	path = pagamentos
 	url = http://github.com/NatalieGFonseca/pagamentos.git
+[submodule "pedidos"]
+	path = pedidos
+	url = http://github.com/NatalieGFonseca/pedidos.git
