@@ -4,3 +4,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = http://github.com/NatalieGFonseca/gateway.git
+[submodule "pagamentos"]
+	path = pagamentos
+	url = http://github.com/NatalieGFonseca/pagamentos.git
