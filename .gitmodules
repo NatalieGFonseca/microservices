@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = http://github.com/NatalieGFonseca/server.git
+[submodule "gateway"]
+	path = gateway
+	url = http://github.com/NatalieGFonseca/gateway.git
